@@ -1,0 +1,185 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6"/>
+	<Project>
+		<Option title="solution"/>
+		<Option makefile_is_custom="1"/>
+		<Option compiler="gcc"/>
+		<Option virtualFolders="CMake Files\;"/>
+		<Build>
+			<Target title="all">
+				<Option working_dir="/Users/alexbuyan/Desktop/practice-suvorov/27-210518/problem/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/Users/alexbuyan/Desktop/practice-suvorov/27-210518/problem/cmake-build-debug/Makefile&quot;  VERBOSE=1 all"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/Users/alexbuyan/Desktop/practice-suvorov/27-210518/problem/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/Users/alexbuyan/Desktop/practice-suvorov/27-210518/problem/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/Users/alexbuyan/Desktop/practice-suvorov/27-210518/problem/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="03_concat_separated">
+				<Option output="/Users/alexbuyan/Desktop/practice-suvorov/27-210518/problem/cmake-build-debug/03_concat_separated" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/alexbuyan/Desktop/practice-suvorov/27-210518/problem/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/Library/Developer/CommandLineTools/usr/bin/../include/c++/v1"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/lib/clang/11.0.3/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/Users/alexbuyan/Desktop/practice-suvorov/27-210518/problem/cmake-build-debug/Makefile&quot;  VERBOSE=1 03_concat_separated"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/Users/alexbuyan/Desktop/practice-suvorov/27-210518/problem/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/Users/alexbuyan/Desktop/practice-suvorov/27-210518/problem/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/Users/alexbuyan/Desktop/practice-suvorov/27-210518/problem/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="03_concat_separated/fast">
+				<Option output="/Users/alexbuyan/Desktop/practice-suvorov/27-210518/problem/cmake-build-debug/03_concat_separated" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/alexbuyan/Desktop/practice-suvorov/27-210518/problem/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/Library/Developer/CommandLineTools/usr/bin/../include/c++/v1"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/lib/clang/11.0.3/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/Users/alexbuyan/Desktop/practice-suvorov/27-210518/problem/cmake-build-debug/Makefile&quot;  VERBOSE=1 03_concat_separated/fast"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/Users/alexbuyan/Desktop/practice-suvorov/27-210518/problem/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/Users/alexbuyan/Desktop/practice-suvorov/27-210518/problem/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/Users/alexbuyan/Desktop/practice-suvorov/27-210518/problem/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="rebuild_cache">
+				<Option working_dir="/Users/alexbuyan/Desktop/practice-suvorov/27-210518/problem/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/Users/alexbuyan/Desktop/practice-suvorov/27-210518/problem/cmake-build-debug/Makefile&quot;  VERBOSE=1 rebuild_cache"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/Users/alexbuyan/Desktop/practice-suvorov/27-210518/problem/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/Users/alexbuyan/Desktop/practice-suvorov/27-210518/problem/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/Users/alexbuyan/Desktop/practice-suvorov/27-210518/problem/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="edit_cache">
+				<Option working_dir="/Users/alexbuyan/Desktop/practice-suvorov/27-210518/problem/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/Users/alexbuyan/Desktop/practice-suvorov/27-210518/problem/cmake-build-debug/Makefile&quot;  VERBOSE=1 edit_cache"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/Users/alexbuyan/Desktop/practice-suvorov/27-210518/problem/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/Users/alexbuyan/Desktop/practice-suvorov/27-210518/problem/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/Users/alexbuyan/Desktop/practice-suvorov/27-210518/problem/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="02_concat">
+				<Option output="/Users/alexbuyan/Desktop/practice-suvorov/27-210518/problem/cmake-build-debug/02_concat" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/alexbuyan/Desktop/practice-suvorov/27-210518/problem/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/Library/Developer/CommandLineTools/usr/bin/../include/c++/v1"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/lib/clang/11.0.3/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/Users/alexbuyan/Desktop/practice-suvorov/27-210518/problem/cmake-build-debug/Makefile&quot;  VERBOSE=1 02_concat"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/Users/alexbuyan/Desktop/practice-suvorov/27-210518/problem/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/Users/alexbuyan/Desktop/practice-suvorov/27-210518/problem/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/Users/alexbuyan/Desktop/practice-suvorov/27-210518/problem/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="02_concat/fast">
+				<Option output="/Users/alexbuyan/Desktop/practice-suvorov/27-210518/problem/cmake-build-debug/02_concat" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/alexbuyan/Desktop/practice-suvorov/27-210518/problem/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/Library/Developer/CommandLineTools/usr/bin/../include/c++/v1"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/lib/clang/11.0.3/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/Users/alexbuyan/Desktop/practice-suvorov/27-210518/problem/cmake-build-debug/Makefile&quot;  VERBOSE=1 02_concat/fast"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/Users/alexbuyan/Desktop/practice-suvorov/27-210518/problem/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/Users/alexbuyan/Desktop/practice-suvorov/27-210518/problem/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/Users/alexbuyan/Desktop/practice-suvorov/27-210518/problem/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="01_make_unique">
+				<Option output="/Users/alexbuyan/Desktop/practice-suvorov/27-210518/problem/cmake-build-debug/01_make_unique" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/alexbuyan/Desktop/practice-suvorov/27-210518/problem/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/Library/Developer/CommandLineTools/usr/bin/../include/c++/v1"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/lib/clang/11.0.3/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/Users/alexbuyan/Desktop/practice-suvorov/27-210518/problem/cmake-build-debug/Makefile&quot;  VERBOSE=1 01_make_unique"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/Users/alexbuyan/Desktop/practice-suvorov/27-210518/problem/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/Users/alexbuyan/Desktop/practice-suvorov/27-210518/problem/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/Users/alexbuyan/Desktop/practice-suvorov/27-210518/problem/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="01_make_unique/fast">
+				<Option output="/Users/alexbuyan/Desktop/practice-suvorov/27-210518/problem/cmake-build-debug/01_make_unique" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/alexbuyan/Desktop/practice-suvorov/27-210518/problem/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/Library/Developer/CommandLineTools/usr/bin/../include/c++/v1"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/lib/clang/11.0.3/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/Users/alexbuyan/Desktop/practice-suvorov/27-210518/problem/cmake-build-debug/Makefile&quot;  VERBOSE=1 01_make_unique/fast"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/Users/alexbuyan/Desktop/practice-suvorov/27-210518/problem/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/Users/alexbuyan/Desktop/practice-suvorov/27-210518/problem/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/Users/alexbuyan/Desktop/practice-suvorov/27-210518/problem/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+		</Build>
+		<Unit filename="/Users/alexbuyan/Desktop/practice-suvorov/27-210518/problem/01_test_make_unique.cpp">
+			<Option target="01_make_unique"/>
+		</Unit>
+		<Unit filename="/Users/alexbuyan/Desktop/practice-suvorov/27-210518/problem/02_test_concat.cpp">
+			<Option target="02_concat"/>
+		</Unit>
+		<Unit filename="/Users/alexbuyan/Desktop/practice-suvorov/27-210518/problem/03_test_concat_separated.cpp">
+			<Option target="03_concat_separated"/>
+		</Unit>
+		<Unit filename="/Users/alexbuyan/Desktop/practice-suvorov/27-210518/problem/doctest_main.cpp">
+			<Option target="03_concat_separated"/>
+			<Option target="02_concat"/>
+			<Option target="01_make_unique"/>
+		</Unit>
+		<Unit filename="/Users/alexbuyan/Desktop/practice-suvorov/27-210518/problem/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\"/>
+		</Unit>
+	</Project>
+</CodeBlocks_project_file>
